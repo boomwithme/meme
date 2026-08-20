@@ -1,2 +1,7 @@
-# meme
-Rrepository for a community-driven Solana project website.
+# Website Project
+
+Repository for website development and launch preparation.
+
+## Status
+
+Currently under development.
