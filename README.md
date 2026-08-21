@@ -42,8 +42,8 @@ Together, we move forward.
 - 🌐 **Website:** [WEBSITE_URL]  
 - 𝕏 **Twitter:** https://x.com/mivazu_meme
 - ✈️ **Telegram:** https://t.me/Mivazu_Meme 
-- 🚀 **Pump.fun:** [PUMP_FUN_URL]  
-- 📜 **Contract Address:** `[CONTRACT_ADDRESS]`
+- 🚀 **Pump.fun:** [[PUMP_FUN_URL]](https://pump.fun/coin/EcJhHL39A2yEqL91tM4eWYMTf98AB2qVVMAzLKz7pump)  
+- 📜 **Contract Address:** `EcJhHL39A2yEqL91tM4eWYMTf98AB2qVVMAzLKz7pump`
 
 > Always confirm the contract address through Mivazu’s official channels.
 
