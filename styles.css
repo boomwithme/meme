@@ -42,3 +42,80 @@ footer{max-width:1440px;margin:0 auto;min-height:230px;padding:65px 5vw;display:
     height: 42px;
   }
 }
+
+
+@media (max-width: 900px) {
+  html,
+  body {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+
+  main,
+  header,
+  section,
+  footer,
+  .hero,
+  .market-strip,
+  .impact-panel,
+  .trading-room,
+  .community {
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+
+  .hero-copy,
+  .manifesto-main,
+  .manifesto-copy,
+  .cycle-heading,
+  .trading-copy,
+  .signal-title,
+  .community-copy {
+    min-width: 0;
+    max-width: 100%;
+  }
+
+  .ticker {
+    width: 100%;
+    max-width: 100vw;
+    overflow: hidden;
+  }
+
+  .community-orbit {
+    width: 100%;
+    max-width: 100%;
+    overflow: hidden;
+  }
+
+  .orbit-one {
+    width: min(500px, 120vw);
+  }
+
+  .orbit-two {
+    height: min(510px, 135vw);
+  }
+
+  img,
+  video,
+  canvas,
+  svg {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .hero-mint,
+  .contract {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .hero-mint code,
+  .contract code {
+    display: block;
+    max-width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+}
